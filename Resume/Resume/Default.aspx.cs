@@ -13,7 +13,7 @@ public partial class _Default : Page
 {
     protected void Page_Load(object sender, EventArgs e)
     {
-        if (IPQueries.IsNewIP(Request.ServerVariables["REMOTE_ADDR"].ToString()))
+       /* if (IPQueries.IsNewIP(Request.ServerVariables["REMOTE_ADDR"].ToString()))
         {
 
         }
@@ -21,7 +21,8 @@ public partial class _Default : Page
         {
 
         }
-        /*
+
+
         string IPAddress = Request.ServerVariables["REMOTE_ADDR"].ToString();
         bool repeatUser = false;
         if (StoredProcedures)
