@@ -12,7 +12,7 @@ namespace Resume.Database
             //capstonefinal.database.windows.net
             //jhawkins
             //Serverpass1!
-            return "Server=hawkins-projects.database.windows.net;Database=Resume;User Id=jaredhawkins;password=Mjb411x40!;"; //connection string
+            return "X"; //connection string
 
         }
 
