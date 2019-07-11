@@ -33,6 +33,8 @@
                 <asp:ScriptReference Name="TreeView.js" Assembly="System.Web" Path="~/Scripts/WebForms/TreeView.js" />
                 <asp:ScriptReference Name="WebParts.js" Assembly="System.Web" Path="~/Scripts/WebForms/WebParts.js" />
                 <asp:ScriptReference Name="Focus.js" Assembly="System.Web" Path="~/Scripts/WebForms/Focus.js" />
+                <asp:ScriptReference Name="scrollTo.js" Assembly="System.Web" Path="~/Scripts/WebForms/jquery.scrollTo.js" />
+                <asp:ScriptReference Name="waypoints.js" Assembly="System.Web" Path="~/Scripts/WebForms/jquery.waypoints.js" />
                 <asp:ScriptReference Name="WebFormsBundle" />
                 <%--Site Scripts--%>
             </Scripts>
